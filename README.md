@@ -15,13 +15,6 @@ Um site dedicado ao universo de **Hunter × Hunter**, apresentando informações
 
 ---
 
-## 🖼️ Layout desenvolvido
-![Layout](img/layout-desktop.png)
-![Layout](img/layout-desktop.png)
-
-
----
-
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**
 - **CSS3**
